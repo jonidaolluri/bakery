@@ -1,0 +1,21 @@
+.navbar,  #newsletter button{
+    background: rgb(112, 97, 66);
+}
+#newsletter div, footer h1, footer p{
+    color: rgb(112, 97, 66);
+}
+.card-img-overlay .card  {
+    background: rgba(135, 122, 76, 0.336);
+    margin-left: 150px;
+}
+.carousel, .carousel .carousel-item, .carousel .carousel-item img{
+    height:750px;
+}
+
+#products{
+    background: rgb(183, 162, 120);
+}
+#newsletter{
+    height: 600px;
+    background:  url(../img/istockphoto-880710798-612x612.jpg);;
+}
